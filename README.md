@@ -8,7 +8,7 @@
 המשחק מיועד לפלטפורמות המחשב האישי וקונסולות.
 
 ## מסך דמיון
-<img src="DALL%E2%80%A2E%202024-11-12%2020.26.25%20-%20A%20realistic%20scene%20of%20an%20intense%20combat%20in%20a%20densely%20built%20urban%20area%20inspired%20by%20Gaza.%20The%20scene%20features%20a%20soldier%20equipped%20with%20modern%20military%20gear.png" alt="Combat Scene in Urban Area" width="800">
+![imagine image]()
 
 ---
 
