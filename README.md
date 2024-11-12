@@ -8,7 +8,7 @@
 המשחק מיועד לפלטפורמות המחשב האישי וקונסולות.
 
 ## מסך דמיון
-![imagine image](iron_swords_pic.png)
+![iron swords pic](iron_swords_pic.png)
 
 ---
 
