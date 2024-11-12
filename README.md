@@ -8,7 +8,7 @@
 המשחק מיועד לפלטפורמות המחשב האישי וקונסולות.
 
 ## מסך דמיון
-![Combat Scene in Urban Area](./assets/combat_scene.png)
+<img src="./assets/combat_scene.png" alt="Combat Scene in Urban Area" width="800">
 
 ---
 
