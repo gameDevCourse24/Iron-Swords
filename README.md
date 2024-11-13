@@ -60,17 +60,12 @@
 מצאנו משחק דומה כאשר חיפשנו בגוגל את הביטוי הבא: "combat game IDF Hamas urban Gaza Play Store"
 - המשחק הראשון נקרא Liyla and the Shadows of War - משחק נרטיבי שמציג את המציאות של משפחה פלסטינית בעזה בזמן מלחמה. השחקן עוקב אחר ניסיונותיהם של אב ובתו לשרוד התקפות.
 - 1. **[Fursan al-Aqsa: The Knights of the Al-Aqsa Mosque](https://store.steampowered.com/app/1387150/Fursan_alAqsa_The_Knights_of_the_AlAqsa_Mosque)**
-   ![צילום מסך של Fursan al-Aqsa](https://cdn.cloudflare.steamstatic.com/steam/apps/1387150/ss_9f1625b18f264b0988cbe9c6ec82a4036a26c67b.1920x1080.jpg)  
-
-2. **[Six Days in Fallujah](https://www.sixdays.com/)**
-   ![צילום מסך של Six Days in Fallujah](https://www.sixdays.com/images/screenshots/thumbs/thumb10.jpg)  
-   משחק המתמקד בלחימה היסטורית בעיראק, עם דגש על ריאליזם והצגת עימותים בתנאים עירוניים דחוסים.
-
-3. **[Conflict: Desert Storm](https://store.steampowered.com/app/6060/Conflict_Desert_Storm/)**
-   ![צילום מסך של Conflict: Desert Storm](https://cdn.cloudflare.steamstatic.com/steam/apps/6060/ss_e94b0c2f06f1d8858f574de364ec88523765de9c.1920x1080.jpg)  
-   משחק טקטי עם משימות במזרח התיכון, המדגיש לחימה בסביבת מדבריות.
+   
 - המשחק השני נקרא Fursan al-Aqsa: The Knights of the Al-Aqsa Mosque - מאפשר לשחקנים להיכנס לנעליו של לוחם פלסטיני הנלחם באזורי עימות בפלסטין, כולל עזה. המשחק מציע משימות עם אלמנטים של לחימה עירונית ופעולות התגנבות שונות.
+  2. **[Six Days in Fallujah](https://www.sixdays.com/)**
+  
 - המשחק האחרון נקרא Conflict: Desert Storm - משחק וותיק יותר שמתמקד בלחימה במזרח התיכון, במשימות בהשראת מבצעים צבאיים בעיראק. המשחק משלב טקטיקות עם אקשן וכולל פיקוד על חוליה צבאית בסביבות לחימה מדבריות.
+  3. **[Conflict: Desert Storm](https://store.steampowered.com/app/6060/Conflict_Desert_Storm/)**
 - ### במה המשחק שלנו שונה ?
 אז המשחק שלנו מתמקד קודם כל באזור אחד (עזה/מנהרות עזה) ומתמקד במטרות שונות כמו לחלץ שבויים ולהשיג מידע מודיעי חשוב כדי להתקדם במשחק, מה שאין במשחקים הקודמים.
 בנוסף, המשחק שלנו מציג ערך מוסף של חוויה מאחדת בקרב עם ישראל לאחר אירועי השנה האחרונה . מבחינה פוליטית כל אחד מהמשחקים הקודמים לא מציג את חווית השחקן מצד לוחם בצבא ההגנה לישראל אלא מהצד השני .
