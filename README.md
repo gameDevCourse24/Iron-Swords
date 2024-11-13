@@ -59,15 +59,16 @@
 ## סקר שוק
 מצאנו משחקים דומים כאשר חיפשנו בגוגל את הביטוי הבא: "combat game IDF Hamas urban Gaza Play Store"
 1. המשחק הראשון נקרא Liyla and the Shadows of War - משחק נרטיבי שמציג את המציאות של משפחה פלסטינית בעזה בזמן מלחמה. השחקן עוקב אחר ניסיונותיהם של אב ובתו לשרוד התקפות.
-**[Fursan al-Aqsa: The Knights of the Al-Aqsa Mosque](https://store.steampowered.com/app/1714420/Fursan_alAqsa_The_Knights_of_the_AlAqsa_Mosque/)**
+**[Liyla and the Shadows of War]
+(https://play.google.com/store/apps/details?id=org.liyla.war&pli=1)**
 
    - ### במה המשחק שלנו שונה ?
      משחק זה מציע חווית שחקן מצד פלסטיני שבורח מהתקפות. המשחק שלנו מציע חווית השחקן מצד לוחם בצבא ההגנה לישראל שמטרתו לא רק לשרוד התקפות של הצד השני אלא גם להשיג יעדים , 
-     לחלץ שבויים, לאסוף מודיעין.
+     לחלץ שבויים, לאסוף מודיעין. בנוסף, משחק זה הינו בדו-מימד ושלנו מתוכנן לביות תלת מימד.
  
 - 
 2. המשחק השני נקרא Fursan al-Aqsa: The Knights of the Al-Aqsa Mosque - מאפשר לשחקנים להיכנס לנעליו של לוחם פלסטיני הנלחם באזורי עימות בפלסטין, כולל עזה. המשחק מציע משימות עם אלמנטים של לחימה עירונית ופעולות התגנבות שונות.
-  **[Six Days in Fallujah](https://www.sixdays.com/)**
+  **[Fursan al-Aqsa: The Knights of the Al-Aqsa Mosque](https://store.steampowered.com/app/1714420/Fursan_alAqsa_The_Knights_of_the_AlAqsa_Mosque/)**
 
   
    - ### במה המשחק שלנו שונה ?
@@ -77,7 +78,7 @@
  **[Conflict: Desert Storm](https://store.steampowered.com/app/6060/Conflict_Desert_Storm/)**
   
 - ### במה המשחק שלנו שונה ?
-  אז המשחק שלנו מתמקד קודם כל באזור אחד (עזה/מנהרות עזה) ומתמקד במטרות שונות כמו לחלץ שבויים ולהשיג מידע מודיעי חשוב כדי להתקדם במשחק, מה שאין במשחק זה.
+  המשחק שלנו מתמקד קודם כל באזור אחד (עזה/מנהרות עזה) ומתמקד במטרות שונות כמו לחלץ שבויים ולהשיג מידע מודיעי חשוב כדי להתקדם במשחק, מה שאין במשחק זה.
 
 ### רכיבים רשמיים שיבליטו את המשחק
 
