@@ -57,7 +57,7 @@
 - **אופי המשחק**: המשחק משלב תחרות ושיתוף, עם מבנה תוצאה מורכב.
 
 ## סקר שוק
-מצאנו משחק דומה כאשר חיפשנו בגוגל את הביטוי הבא: "combat game IDF Hamas urban Gaza Play Store"
+מצאנו משחקים דומים כאשר חיפשנו בגוגל את הביטוי הבא: "combat game IDF Hamas urban Gaza Play Store"
 1. המשחק הראשון נקרא Liyla and the Shadows of War - משחק נרטיבי שמציג את המציאות של משפחה פלסטינית בעזה בזמן מלחמה. השחקן עוקב אחר ניסיונותיהם של אב ובתו לשרוד התקפות.
  **[Fursan al-Aqsa: The Knights of the Al-Aqsa Mosque](https://store.steampowered.com/app/1387150/Fursan_alAqsa_The_Knights_of_the_AlAqsa_Mosque)**
 
