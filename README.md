@@ -59,7 +59,7 @@
 ## סקר שוק
 מצאנו משחקים דומים כאשר חיפשנו בגוגל את הביטוי הבא: "combat game IDF Hamas urban Gaza Play Store"
 1. המשחק הראשון נקרא Liyla and the Shadows of War - משחק נרטיבי שמציג את המציאות של משפחה פלסטינית בעזה בזמן מלחמה. השחקן עוקב אחר ניסיונותיהם של אב ובתו לשרוד התקפות.
-**[Fursan al-Aqsa: The Knights of the Al-Aqsa Mosque](https://store.steampowered.com/app/1387150/Fursan_alAqsa_The_Knights_of_the_AlAqsa_Mosque)**
+**[Fursan al-Aqsa: The Knights of the Al-Aqsa Mosque](https://store.steampowered.com/app/1714420/Fursan_alAqsa_The_Knights_of_the_AlAqsa_Mosque/)**
 
    - ### במה המשחק שלנו שונה ?
      משחק זה מציע חווית שחקן מצד פלסטיני שבורח מהתקפות. המשחק שלנו מציע חווית השחקן מצד לוחם בצבא ההגנה לישראל שמטרתו לא רק לשרוד התקפות של הצד השני אלא גם להשיג יעדים , 
