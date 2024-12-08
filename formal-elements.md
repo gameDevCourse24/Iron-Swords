@@ -11,7 +11,7 @@
 המשחק מיועד לפלטפורמות המחשב האישי וקונסולות.
 
 ## מסך דמיון
-![iron swords pic](Images/ironswardpic.png)
+![iron swords pic](ironswardpic.png)
 
 ---
 
@@ -46,7 +46,7 @@
 - **השגת משאבים**: המשאבים נאספים באזורי הקרב או ממחסנים נטושים.
 - **נדירות המשאבים**: המשאבים מוגבלים ויחייבו את השחקן לשקול את השימוש בהם בקפידה.
 - **התראה על מצב משאבים**: מצב המשאבים יוצג בממשק בזמן אמת.
-- ![picture](Images/ironswardpic2.png)
+- ![picture](ironswardpic2.png)
 
 ### 6. עימותים
 - **עימותים מרכזיים**:
@@ -67,7 +67,7 @@
 ## 1. **[Liyla and the Shadows of War](https://play.google.com/store/apps/details?id=org.liyla.war&pli=1)**
 - משחק נרטיבי שמציג את המציאות של משפחה פלסטינית בעזה בזמן מלחמה. השחקן עוקב אחר ניסיונותיהם של אב ובתו לשרוד התקפות.
 
-![first](Images/Liyla_and_the_Shadows_of_War.png)
+![first](Liyla_and_the_Shadows_of_War.png)
 
 ### במה המשחק שלנו שונה ?
   משחק זה מציע חווית שחקן מצד פלסטיני שבורח מהתקפות. המשחק שלנו מציע חווית השחקן מצד לוחם בצבא ההגנה לישראל שמטרתו לא רק לשרוד התקפות של הצד השני אלא גם להשיג יעדים , 
@@ -77,7 +77,7 @@
 ## 2.  **[Fursan al-Aqsa: The Knights of the Al-Aqsa Mosque](https://store.steampowered.com/app/1714420/Fursan_alAqsa_The_Knights_of_the_AlAqsa_Mosque/)**
 - מאפשר לשחקנים להיכנס לנעליו של לוחם פלסטיני הנלחם באזורי עימות בפלסטין, כולל עזה. המשחק מציע משימות עם אלמנטים של לחימה עירונית ופעולות התגנבות שונות.
   
-![first](Images/Fursan_alAqsa.png)
+![first](Fursan_alAqsa.png)
 
   
  ### במה המשחק שלנו שונה ?
@@ -86,7 +86,7 @@
   ## 3.  **[Conflict: Desert Storm](https://store.steampowered.com/app/6060/Conflict_Desert_Storm/)**
 - משחק וותיק יותר שמתמקד בלחימה במזרח התיכון, במשימות בהשראת מבצעים צבאיים בעיראק. המשחק משלב טקטיקות עם אקשן וכולל פיקוד על חוליה צבאית בסביבות לחימה מדבריות.
   
-![first](Images/conflict_dessert_storm.png)
+![first](conflict_dessert_storm.png)
 
   
  ### במה המשחק שלנו שונה ?
