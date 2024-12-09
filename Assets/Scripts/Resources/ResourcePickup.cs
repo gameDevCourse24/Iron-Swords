@@ -2,19 +2,33 @@ using UnityEngine;
 
 public class ResourcePickup : MonoBehaviour
 {
-    public string resourceType; // סוג המשאב (Intelligence, HealthKit, Ammo)
-    public int amount = 1;      // כמות המשאב
+    public enum ResourceType { Intelligence, HealthKit, Ammo }
+    public ResourceType resourceType;
 
-    void OnTriggerEnter2D(Collider2D other)
+    private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
         {
-            ResourceManager resourceManager = other.GetComponent<ResourceManager>();
+            ResourceManager resourceManager = FindObjectOfType<ResourceManager>();
+
             if (resourceManager != null)
             {
-                resourceManager.AddResource(resourceType, amount);
-                Destroy(gameObject); // השמדת המשאב לאחר האיסוף
+                switch (resourceType)
+                {
+                    case ResourceType.Intelligence:
+                        resourceManager.AddIntelligence();
+                        break;
+                    case ResourceType.HealthKit:
+                        resourceManager.AddHealthKit();
+                        break;
+                    case ResourceType.Ammo:
+                        resourceManager.AddAmmo();
+                        break;
+                }
             }
+
+            // השמדת האובייקט שנאסף
+            Destroy(gameObject);
         }
     }
 }
