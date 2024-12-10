@@ -8,10 +8,14 @@ public class ResourceUI : MonoBehaviour
     public TextMeshProUGUI healthKitsText;
     public TextMeshProUGUI ammoText;
 
+    public TextMeshProUGUI LifeText;
+
+
     void Update()
     {
         intelligenceText.text = "Intelligence: " + resourceManager.intelligence;
         healthKitsText.text = "Health Kits: " + resourceManager.healthKits;
         ammoText.text = "Ammo: " + resourceManager.ammo;
+        LifeText.text = "Lives: " + resourceManager.life.ToString();
     }
 }
