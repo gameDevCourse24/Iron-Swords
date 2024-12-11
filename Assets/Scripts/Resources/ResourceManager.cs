@@ -15,24 +15,10 @@ public class ResourceManager : MonoBehaviour
 
     public void AddHealthKit()
     {
-        if (life < 3) // השחקן יכול להחזיר לעצמו חיים עד למקסימום של 3
-        {
-        life++;
-        healthKits--; // הורדה ממספר ערכות העזרה
-        Debug.Log("Health restored. Lives: " + life);
-        }
+        healthKits++;
     }
-
-
     public void AddAmmo()
     {
         ammo++;
-    }
-
-    public void AddLife()
-    {
-        life++;
-    }
-
-    
+    }    
 }

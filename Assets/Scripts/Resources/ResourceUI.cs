@@ -11,7 +11,7 @@ public class ResourceUI : MonoBehaviour
     public TextMeshProUGUI LifeText;
 
 
-    void Update()
+    public void Update()
     {
         intelligenceText.text = "Intelligence: " + resourceManager.intelligence;
         healthKitsText.text = "Health Kits: " + resourceManager.healthKits;
