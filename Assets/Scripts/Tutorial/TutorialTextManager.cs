@@ -8,7 +8,6 @@ public class TutorialTextManager : MonoBehaviour
     public float displayDuration = 3f; // משך הזמן שבו כל טקסט מוצג
     private string[] instructions = // רשימת ההוראות
     {
-        "Welcome!",
         "Use the arrow keys to move.",
         "Press the space bar to kill Hamasnik",
         "Take intelligence to discover more parts of the map!",
