@@ -10,6 +10,7 @@ public class InstructionsScene : MonoBehaviour
         timer -= Time.deltaTime;
         if (timer <= 0)
         {
-            SceneManager.LoadScene("TutorialScene");        }
+            SceneManager.LoadScene("TutorialScene");
+        }
     }
 }
